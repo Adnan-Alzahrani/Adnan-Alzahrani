@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Adnan-Alzahrani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning with coding dojo
+- 💞️ I'm looking to collaborate on everyone
+- 📫 How to reach me 
+- snap : adn_702
 
 <!---
 Adnan-Alzahrani/Adnan-Alzahrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
